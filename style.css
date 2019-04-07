@@ -1,0 +1,16 @@
+
+.response {
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+
+.error {
+    background: #fdcdcd;
+    border: #ecc0c1 1px solid;
+}
+
+.success {
+    background: #c5f3c3;
+    border: #bbe6ba 1px solid;
+}
